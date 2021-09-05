@@ -11,7 +11,7 @@ body, html{
 
     height: 100vh;
 
-    background: linear-gradient(to top, purple, firebrick, purple);
+    background: linear-gradient(to top, rgb(37, 25, 201), purple, rgb(37, 25, 201));
     background-size: 500% 100%;
 
     color: ivory;
